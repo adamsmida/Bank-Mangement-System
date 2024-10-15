@@ -1,0 +1,9 @@
+
+c
+java:S1192m"FDefine a constant instead of duplicating this literal "Error" 3 times.(ÔÎÿ¯8æ©¶õþ0
+{
+java:S1192m"^Define a constant instead of duplicating this literal "Please select a client first." 3 times.(ÔÎÿ¯8í©¶õþ0
+F
+java:S1948")Make "clients" transient or serializable.(ä¦¦å8†ª¶õþ0
+t
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼ Òþüÿÿÿÿ8•ª¶õþ0

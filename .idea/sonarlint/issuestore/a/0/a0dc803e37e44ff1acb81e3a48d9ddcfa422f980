@@ -1,0 +1,9 @@
+
+S
+java:S1659"1Declare "deleteAccountButton" on a separate line.(æÁš»ùÿÿÿÿ8ßŠºöş0
+L
+java:S1948"*Make "accounts" transient or serializable.(­³°Üùÿÿÿÿ8àŠºöş0
+H
+java:S1948"&Make "user" transient or serializable.(’Ø¾ıÿÿÿÿ8áŠºöş0
+v
+java:S3252/"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(­ÇÿË8éŠºöş0

@@ -1,0 +1,11 @@
+
+d
+java:S1659"IDeclare "logoutButton" and all following declarations on a separate line.(»ú÷øÿÿÿÿ
+C
+java:S1948"-Make "accountList" transient or serializable.(ÂüÇ¸
+A
+java:S1948"&Make "user" transient or serializable.(’Ø¾ıÿÿÿÿ
+d
+java:S3252_"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+R
+java:S3972o"7Move this "if" to a new line or add the missing "else".(¨ôşùÿÿÿÿ

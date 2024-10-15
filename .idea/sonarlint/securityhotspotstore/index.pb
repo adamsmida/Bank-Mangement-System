@@ -1,0 +1,45 @@
+
+R
+"src/bank/ui/TransferInterface.java,0\1\01300836eb7b2c6f2c0482991be47df60552ab02
+R
+"src/bank/ui/EditUserInterface.java,5\c\5c04738eaef116773f5b9ec073536d6b3e48b410
+B
+src/bank/Main.java,1\f\1fd52a6211d53e3f10b1f9e0fea7916a89833bb1
+J
+src/bank/data/Account.java,7\a\7acd4bf88b6f1759882252b8017bc8c00e6985f7
+P
+ src/bank/data/Administrator.java,0\f\0f8e9d1fb3526597b71a960aed2c18d0bff8c900
+I
+src/bank/data/Banker.java,2\a\2a86d23b503c8a4f1f1729bd3d3a201ab81d23c0
+G
+src/bank/data/Role.java,1\b\1b27f31a24d54323d6e02b621ff32c00b7e4007d
+S
+#src/bank/database/DBConnection.java,0\7\070abb1b9dab08a06dad48c4aeeb2ef859dc21eb
+G
+src/bank/data/User.java,1\f\1f57653df8f3dac0fd1a7a962827656de545057e
+T
+$src/bank/ui/AddAccountInterface.java,1\7\179a31f39a83765c3be7e435e16cb184a1a1af6c
+W
+'src/bank/ui/AdministratorInterface.java,2\f\2f242a1001398163acb743223216bc44babe39bc
+P
+ src/bank/ui/CreditInterface.java,b\e\bebe2c4113d6f8dc93cd858465ef1da7f50f0716
+O
+src/bank/ui/DebitInterface.java,2\c\2c3e890076b712a88ecef767f33bf4144493ddc3
+I
+src/bank/data/Client.java,1\3\132eb69b60ad735dae314054cb9de2442bc6e78d
+<
+sql/init.sql,f\3\f36bdb09770867952e7f29b81dd3dabcada5d58c
+O
+src/bank/ui/LoginInterface.java,4\f\4ff92b76c4d0bc22eb69360922be28a8623ba9ca
+N
+src/bank/database/DBUtils.java,c\d\cdaca58a97fe5638fccbe891e6e4098495378ad2
+P
+ src/bank/database/DBQueries.java,d\a\dad00d84a7c869d896e62b38e8631b829f8b4b95
+S
+#src/bank/ui/AddClientInterface.java,b\e\bea599ef9ddf6405b89d2c19ff5fb87758468122
+R
+"src/bank/ui/AccountsInterface.java,a\0\a0dc803e37e44ff1acb81e3a48d9ddcfa422f980
+P
+ src/bank/ui/ClientInterface.java,a\d\ad5754d1e1a43ca0a09927eb9812dfd7a93b7468
+P
+ src/bank/ui/BankerInterface.java,8\d\8d9d90002f87607ce10e7f2026da27650bb43491
