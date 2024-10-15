@@ -11,7 +11,7 @@ Role-based Login: Users can log in as a Client, Banker, or Administrator, each w
 Client: Can view their account details, perform transactions like deposits and withdrawals.
 Banker: Can manage customer accounts, approve/decline transactions.
 Administrator: Has full access to create new user accounts (clients, bankers), manage system settings, and view all transactions.
-3.Technologies Used :
+4. Technologies Used :
 Programming Language: Java (JDK 8+)
 GUI Framework: Swing (Java's built-in GUI toolkit)
 Database: PostgreSQL
